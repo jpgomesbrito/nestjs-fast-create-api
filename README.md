@@ -59,3 +59,7 @@ $ http://localhost:3000/api#/
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+
+#Tutorial Video
+https://www.youtube.com/watch?v=WZtHM4Ph-K8&list=PLlaDAvA2MhR2jb8zavu6I-w1BA878aHcB&index=6&ab_channel=MariusEspejo
